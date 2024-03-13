@@ -8,7 +8,7 @@ Experienced CAD Detailer with a strong interest in information technology. Skill
 
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/ssidhu1994/Active-Directory-Home-Lab)
 
 <h2>👨‍💻 Certifications:</h2>
 
