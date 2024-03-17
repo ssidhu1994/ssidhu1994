@@ -12,7 +12,7 @@ Experienced CAD Detailer with a strong interest in information technology. Skill
 
 <h2>👨‍💻 Certifications:</h2>
 
- - CompTIA A+ Certification(Expected 05/2024)
+ - CompTIA A+ Certification(Expected 06/2024)
 
 <h2> 🤳 Connect with me:</h2>
 
