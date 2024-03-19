@@ -16,5 +16,5 @@ Experienced CAD Detailer with a strong interest in information technology. Skill
 [<img align="left" alt="SukhmanpreetSidhu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/sukhmanpreet-singh-sidhu/
-[gmail]: sssukhmanpreet@gmail.com
+
 
