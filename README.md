@@ -2,7 +2,7 @@
 
 <h2>Summary</h2>
 
-Dedicated professional with over 9 years of experience in customer service within fast-paced manufacturing industries. Skilled in problem-solving, process optimization, and technical troubleshooting, now transitioning into the IT sector.
+Dedicated professional with over 9 years of experience in customer service within fast-paced manufacturing industries. Skilled in problem-solving, process optimization, and technical troubleshooting, now transitioning to the IT sector.
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
