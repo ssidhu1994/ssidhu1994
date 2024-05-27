@@ -2,7 +2,7 @@
 
 <h2>Summary</h2>
 
-Experienced professional with a background in CAD and manufacturing, now transitioning to pursue a career in technology. Leveraging over 9 years of expertise in customer service, I am actively seeking opportunities in IT support to enhance user experiences and contribute to organizational success. Dedicated to continuous learning, I am pursuing the CompTIA A+ certification and have demonstrated proficiency in setting up and managing Active Directory environments, as shown in the Active Directory Lab project.
+Experienced professional with a background in CAD and Manufacturing, now transitioning to pursue a career in technology. Leveraging over 9 years of expertise in customer service, I am actively seeking opportunities in IT support to enhance user experiences and contribute to organizational success. Dedicated to continuous learning, I am pursuing the CompTIA A+ certification and have demonstrated proficiency in setting up and managing Active Directory environments, as shown in the Active Directory Lab project.
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
