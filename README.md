@@ -2,8 +2,7 @@
 
 <h2>Summary</h2>
 
-Experienced professional with over 9 years of customer service expertise in a fast-paced manufacturing setting, 
-transitioning to the IT sector. Driven by a passion for technology and a desire to apply my problem-solving and process optimization skills in a dynamic environment.
+Experienced professional with a background in CAD and manufacturing, now transitioning to pursue a career in technology. Leveraging expertise in customer service, I am actively seeking opportunities in IT support to enhance user experiences and contribute to organizational success. Dedicated to continuous learning, I am pursuing the CompTIA A+ certification and have demonstrated expertise in setting up and managing Active Directory environments, as shown in the Active Directory Lab project. 
 
 <h2>👨‍💻 I.T. Projects:</h2>
 
