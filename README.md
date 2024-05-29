@@ -4,12 +4,7 @@
     <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="width: 40%; max-width: 10px; height: auto;" />
 </p>
 
-
-<h2> 💻 Summary</h2>
-
-Experienced professional with a background in CAD and Manufacturing, now transitioning to pursue a career in technology. Leveraging over 9 years of expertise in customer service, I am actively seeking opportunities in IT support to enhance user experiences and contribute to organizational success. Dedicated to continuous learning, I am pursuing the CompTIA A+ certification and have demonstrated proficiency in setting up and managing Active Directory environments, as shown in the Active Directory Lab project.
-
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>💻 Information Technology Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/ssidhu1994/Active-Directory-Home-Lab)
 
