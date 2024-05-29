@@ -1,7 +1,7 @@
-<h1>Hi, I'm Sukhmanpreet, an Aspiring IT Professional☺
+<h1>Hi, I'm Sukhmanpreet, an Aspiring IT Professional☺</h1>
 
 <p align="center">
-    <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="width: 40%; max-width: 10px; height: auto;" />
+    <img src="https://camo.githubusercontent.com/d26893d99fe76f99fcf7d36e586ad8a0133c131fd4b101fe56494105b4238549/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" style="width: 50%; max-width: 10px; height: auto;" />
 </p>
 
 <h2>💻 Information Technology Projects:</h2>
