@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sukhmanpreet! 
+<h1>Hi, I'm Sukhmanpreet, an Aspiring IT Professional
 
 <h2>Summary</h2>
 
