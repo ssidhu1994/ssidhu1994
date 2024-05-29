@@ -6,7 +6,12 @@
 
 <h2>💻 Information Technology Projects:</h2>
 
-  - [Active Directory Lab](https://github.com/ssidhu1994/Active-Directory-Home-Lab)
+- **Microsoft Active Directory Domain Services**
+
+  - [Deploying Active Directory within Windows Server VMs](https://github.com/ssidhu1994/Active-Directory-Home-Lab)
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
