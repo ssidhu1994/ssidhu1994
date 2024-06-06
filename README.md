@@ -13,7 +13,7 @@
 - **osTicket (Help Desk Ticketing System)**
 
   - [1. Create a Virtual Machine on Azure](https://github.com/ssidhu1994/Creating-Virtual-Machine-on-Azure)
-  - [2. osTicket: Prerequisites and Installation]()
+  - [2. osTicket: Prerequisites and Installation](https://github.com/ssidhu1994/osTicket---Prerequisites-and-Installation/blob/main/README.md)
   - [3. osTicket: Post-Installation Configuration]()
   - [4. osTicket: Ticket Lifecycle Examples]()
         
