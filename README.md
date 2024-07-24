@@ -19,7 +19,8 @@
 
 - **Certifications**
 
-  - 
+  - [CompTIA A+ Certificate](https://github.com/user-attachments/files/16367669/SukhmanpreetSidhu_CompTIA.A%2BCertificate.pdf)
+
 
  
 
